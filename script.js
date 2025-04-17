@@ -341,7 +341,7 @@ function gameOver() {
 
 // Share score
 function shareScore() {
-  const text = `Eu marquei ${score} pontos no Phishing Quiz! Você consegue fazer melhor? Jogue agora: https://exemplo.com`
+  const text = `Eu marquei ${score} pontos no Phishing Quiz! Você consegue fazer melhor? Jogue agora: https://jeanrafaellourenco.github.io/phishing-quiz/`
 
   // Check if Web Share API is supported
   if (navigator.share) {
@@ -349,7 +349,7 @@ function shareScore() {
       .share({
         title: "Phishing Quiz - Minha Pontuação",
         text: text,
-        url: "https://exemplo.com",
+        url: "https://jeanrafaellourenco.github.io/phishing-quiz/",
       })
       .catch((error) => {
         console.log("Erro ao compartilhar:", error)
