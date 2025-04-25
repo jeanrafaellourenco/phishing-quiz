@@ -6,52 +6,48 @@
 
 ## 📚 Aula: Entendendo o Phishing
 
-**Phishing** é um dos ataques mais prevalentes e eficazes utilizados por cibercriminosos. Ele explora falhas humanas por meio de **engenharia social**, induzindo vítimas a clicar em links, baixar arquivos ou fornecer credenciais.
 
-Com base nas perguntas do quiz, exploramos os principais vetores de phishing:
+https://github.com/user-attachments/assets/d814e886-5ed4-41e9-8f99-4887802accee
 
-### 📨 E-mails Falsos com Links Maliciosos
-**Exemplo de pergunta:**  
-> "Você recebeu um e-mail do seu banco solicitando que atualize sua senha clicando em um link suspeito. O que você faz?"
 
-**Explicação:**  
-Criminosos costumam clonar páginas bancárias e enviar e-mails idênticos aos legítimos. Sempre passe o mouse sobre o link antes de clicar e verifique o domínio.
+### Você consegue identificar ameaças online?
 
----
+Phishing é uma das técnicas mais usadas por cibercriminosos para roubar informações como senhas, dados bancários e identidades.  
+Esses golpes chegam disfarçados de e-mails, mensagens de texto ou links aparentemente inofensivos... mas escondem armadilhas perigosas.
 
-### ⏰ Senso de Urgência ou Ameaças
-**Exemplo de pergunta:**  
-> "Uma mensagem diz que sua conta será suspensa em 12 horas. Ela exige login imediato em um link."
+⚡ No cenário digital de hoje, saber reconhecer um golpe é essencial.
 
-**Explicação:**  
-Phishing muitas vezes se aproveita da ansiedade do usuário. Bancos e plataformas oficiais **nunca ameaçam bloqueios com prazos curtos via e-mail.**
+## O que você precisa saber:
 
----
+✅ **O que é phishing?**  
+Uma estratégia de engano usada para capturar informações sensíveis.
 
-### 📎 Anexos com Nomes Enganosos
-**Exemplo de pergunta:**  
-> "Você recebeu um anexo chamado 'boleto_atualizado.pdf.exe'."
+✅ **Tipos comuns de phishing:**  
+- **Phishing tradicional:** e-mails falsos que imitam bancos e lojas.  
+- **Spear phishing:** ataques personalizados para uma vítima específica.  
+- **Whaling:** focado em grandes alvos, como executivos de empresas.  
+- **Vishing e Smishing:** golpes por ligação telefônica ou mensagens de texto.
 
-**Explicação:**  
-Arquivos com dupla extensão geralmente são maliciosos. Mesmo arquivos `.pdf`, `.doc` ou `.xls` podem conter macros maliciosas.
-
----
-
-### 🌐 Sites Falsos (Spoofing)
-**Exemplo de pergunta:**  
-> "O site onde você caiu após clicar no link é `https://secure-login.google.mail.tk`."
-
-**Explicação:**  
-Sites falsificados imitam domínios confiáveis, mas possuem pequenas variações. Sempre confira o domínio principal e a presença do certificado SSL (cadeado).
+✅ **Como se proteger:**  
+- Desconfie de mensagens pedindo informações pessoais.  
+- Verifique sempre o remetente.  
+- Evite clicar diretamente em links suspeitos.  
+- Use autenticação em duas etapas.  
+- Mantenha antivírus e sistemas atualizados.
 
 ---
 
-### 💬 Phishing via Redes Sociais e Mensagens
-**Exemplo de pergunta:**  
-> "Um amigo envia via WhatsApp: 'É você neste vídeo?' com um link encurtado."
+**A proteção começa com conhecimento.**  
+Reconhecer uma tentativa de phishing pode salvar seus dados... e sua tranquilidade.
 
-**Explicação:**  
-Contas comprometidas são usadas para espalhar links maliciosos. Verifique com a pessoa antes de clicar e desconfie de links fora de contexto.
+---
+
+💡 **Quer testar se você realmente sabe identificar um golpe?**  
+Participe do **desafio prático** e veja como está sua percepção!
+
+👉 Acesse agora: [https://jeanrafaellourenco.github.io/phishing-quiz/](https://jeanrafaellourenco.github.io/phishing-quiz/)
+
+Mostre que você está preparado! 🚀
 
 ---
 
